@@ -1,0 +1,4 @@
+Aprendiendo comandos basicos de Linux.
+Linux es muy util para automatizar tareas
+esta practica se realizo con git bash
+Linea adicional al resumen

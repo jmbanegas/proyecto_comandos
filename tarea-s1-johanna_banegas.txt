@@ -1,0 +1,33 @@
+    1  git status
+    2  pwd
+    3  whoami
+    4  cd home
+    5  cd ~
+    6  pwd
+    7  mkdir proyecto_comandos
+    8  ls
+    9  cd proyecto_comandos/
+   10  mkdir documentos
+   11  mkdir imagenes
+   12  mkdir scripts
+   13  ls
+   14  cd documentos
+   15  touch notas.txt
+   16  ls
+   17  tree .
+   18  tree
+   19  ls /.
+   20  tree .
+   21  tree 
+   22  cd documentos
+   23  nano notas.txt
+   24  cat notas.txt
+   25  cp notas.txt ../scripts/backup_notas.txt
+   26  ls
+   27  mv ../scripts/backup_notas.txt ../imagenes/
+   28  cat notas.txt > resumen.txt
+   29  echo "Linea adicional al resumen" >> resumen.txt
+   30  rm ../imagenes/backup_notas.txt
+   31  rmdir ../imagenes
+   32  cd ~/proyecto_comandos
+   33  history | tee tarea-s1-johanna_banegas.txt
